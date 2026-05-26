@@ -44,8 +44,7 @@ git clone https://github.com/analaurafeltrin/projeto-pokedex.git
 # Acesse a pasta
 cd projeto-pokedex
 
-# Abra o arquivo no navegador
-# (basta abrir o index.html diretamente, ou usar o Live Server no VS Code)
+# Abra o arquivo no navegador :D
 ```
 
 ---
