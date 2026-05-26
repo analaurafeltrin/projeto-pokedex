@@ -1,6 +1,6 @@
 Pokédex 🔴
 
-Uma Pokédex interativa desenvolvida com HTML, CSS e JavaScript puro, consumindo a [PokéAPI](https://pokeapi.co/) para exibir dados em tempo real dos Pokémons.
+Desenvolvi uma Pokédex com HTML, CSS e JavaScript puro, que consome a PokéAPI para listar Pokémons com carregamento dinâmico.
 
 > Projeto desenvolvido durante o curso de JavaScript da [DIO (Digital Innovation One)](https://www.dio.me/), com foco na prática de consumo de APIs REST.
 
