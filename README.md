@@ -35,17 +35,15 @@ Este foi meu **primeiro projeto utilizando uma API externa**. Sinto que meu maio
 
 ---
 
-## 📁 Como rodar localmente
+## 📁 Certificado do Projeto:
 
-```bash
-# Clone o repositório
-git clone https://github.com/analaurafeltrin/projeto-pokedex.git
+[📄 Ver certificado em PDF](./certificado-pokedex.pdf)
 
-# Acesse a pasta
-cd projeto-pokedex
-
-# Abra o arquivo no navegador :D
-```
+<div align="center">
+  <img src="./certificado-pokedex (1).jpg" width="30%" />
+  <img src="./certificado-pokedex (2).jpg" width="30%" />
+  <img src="./certificado-pokedex (3).jpg" width="30%" />
+</div>
 
 ---
 
